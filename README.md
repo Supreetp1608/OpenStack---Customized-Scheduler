@@ -1,1 +1,1 @@
-# OpenStack - Customized Scheduler for VM Placement on SDN 
+# OpenStack - Customized Scheduler for efficient VM Placement on SDN 
